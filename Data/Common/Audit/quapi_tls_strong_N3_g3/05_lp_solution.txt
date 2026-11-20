@@ -1,0 +1,21 @@
+# lp_solution
+# each group's piece X_G, its slack t_G and its rescaling lambda_G
+
+alpha = prod lambda_G = 1.000000
+
+group (0, 1, 2)   t_G = 0.000000   lambda_G = 1.000000
+   +0.023438   +0.192601   +0.106849
+   +0.192601   +0.361763   +0.201980
+   +0.106849   +0.201980   +0.190260
+   worst lattice vector [-2.0, 2.0, 0.0] gives -Delta^T X Delta = +0.000000
+
+group (1, 2, 3)   t_G = 0.000000   lambda_G = 1.000000
+   +0.094070   +0.136683   +0.106849
+   +0.136683   +0.265573   +0.192601
+   +0.106849   +0.192601   +0.119628
+   worst lattice vector [0.0, -2.0, 2.0] gives -Delta^T X Delta = +0.000000
+
+group (0, 3)   t_G = 0.000000   lambda_G = 1.000000
+   +0.096190   +0.033584
+   +0.033584   -0.000000
+   worst lattice vector [0.0, -2.0] gives -Delta^T X Delta = +0.000000

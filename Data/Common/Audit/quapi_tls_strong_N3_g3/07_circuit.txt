@@ -1,0 +1,12 @@
+# circuit
+# register layout and transpiled gate counts
+
+qubits            : 11 = 2*(N+1)*n_q + ancillas (8 + 3)
+forward slice k   : qubits [k*1, (k+1)*1)
+backward slice k  : qubits [4 + k*1, ...)
+IF groups         : [(0, 1, 2), (1, 2, 3), (0, 3)]
+CNOT (total)      : 198
+depth             : 220
+IF CNOT breakdown : {'hermitian': 144, 'unitary': 48}
+rescalings        : {'(0, 1, 2)': 1.0, '(1, 2, 3)': 1.0, '(0, 3)': 1.0}
+alpha (circuit)   : 1.000000

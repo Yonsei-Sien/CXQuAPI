@@ -1,0 +1,67 @@
+[
+ {
+  "system": "TLS-strong",
+  "N": 2,
+  "g_star": 3,
+  "cx_lp": 92,
+  "cx_walsh": 220,
+  "ratio": 2.391304347826087,
+  "qubits_lp": 7,
+  "qubits_walsh": 7,
+  "alpha_lp": 1.0,
+  "t_lp": 0.22227907180786133,
+  "t_walsh": 0.03671717643737793
+ },
+ {
+  "system": "TLS-strong",
+  "N": 3,
+  "g_star": 3,
+  "cx_lp": 198,
+  "cx_walsh": 1078,
+  "ratio": 5.444444444444445,
+  "qubits_lp": 11,
+  "qubits_walsh": 9,
+  "alpha_lp": 1.0,
+  "t_lp": 0.2644789218902588,
+  "t_walsh": 0.06730318069458008
+ },
+ {
+  "system": "TLS-strong",
+  "N": 4,
+  "g_star": 4,
+  "cx_lp": 616,
+  "cx_walsh": 5208,
+  "ratio": 8.454545454545455,
+  "qubits_lp": 13,
+  "qubits_walsh": 11,
+  "alpha_lp": 1.0,
+  "t_lp": 0.6221117973327637,
+  "t_walsh": 0.10914111137390137
+ },
+ {
+  "system": "TLS-strong",
+  "N": 5,
+  "g_star": 5,
+  "cx_lp": 2194,
+  "cx_walsh": 24706,
+  "ratio": 11.260711030082042,
+  "qubits_lp": 15,
+  "qubits_walsh": 13,
+  "alpha_lp": 1.0,
+  "t_lp": 1.2179298400878906,
+  "t_walsh": 0.1881704330444336
+ },
+ {
+  "system": "TLS-strong",
+  "N": 6,
+  "g_star": 5,
+  "cx_lp": 3300,
+  "cx_walsh": 114868,
+  "ratio": 34.808484848484845,
+  "qubits_lp": 20,
+  "qubits_walsh": 15,
+  "alpha_lp": 1.0,
+  "t_lp": 1.7122108936309814,
+  "t_walsh": 0.4002673625946045
+ }
+]

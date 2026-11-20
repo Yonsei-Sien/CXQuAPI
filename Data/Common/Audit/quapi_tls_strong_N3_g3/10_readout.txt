@@ -1,0 +1,15 @@
+# readout
+# summed qubits, one-shot probabilities and the reduced density matrix
+
+summed qubits        : [1, 5, 2, 6]
+post-selection P     : [0.72116063, 0.04430379]
+P_ro (diagonal)      : [0.0413155949858, 0.00218440515487]
+predicted P_ro       : [0.0413155949858, 0.00218440515487]
+
+RDM (circuit)
+   +0.813050   -0.078180
+   -0.078180   +0.186950
+
+RDM (classical path sum)
+   +0.813050   -0.078180
+   -0.078180   +0.186950

@@ -1,0 +1,92 @@
+[
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.05,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 0.12750113105813216
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.1,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 0.2550022621162227
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.2,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 0.5100045242324132
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.3,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 0.7650067863486228
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.5,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 1.2750113105813785
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 0.7,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 1.7850158348139302
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 1.0,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 2.550022621162759
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 1.4,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 3.570031669627863
+ },
+ {
+  "system": "TLS",
+  "N": 5,
+  "xi": 2.0,
+  "g": 2,
+  "cx": 240,
+  "alpha_pair": 1.0,
+  "alpha_at_g": 1.0,
+  "reorg": 5.100045245913716
+ }
+]

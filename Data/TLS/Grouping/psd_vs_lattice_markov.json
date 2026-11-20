@@ -1,0 +1,68 @@
+[
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 2,
+  "g": 2,
+  "cx": 48,
+  "margin": 0.27469323546035573,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ },
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 3,
+  "g": 2,
+  "cx": 96,
+  "margin": 0.18702190373039523,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ },
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 4,
+  "g": 2,
+  "cx": 160,
+  "margin": 0.14086853646050615,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ },
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 5,
+  "g": 2,
+  "cx": 240,
+  "margin": 0.11291314816234543,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ },
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 6,
+  "g": 2,
+  "cx": 336,
+  "margin": 0.09418540576678183,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ },
+ {
+  "system": "Markov-bath on TLS lattice",
+  "N": 7,
+  "g": 2,
+  "cx": 448,
+  "margin": 0.08078060219019662,
+  "alpha": 1.0,
+  "psd_ok": true,
+  "lattice_ok": true,
+  "verdict": "both"
+ }
+]

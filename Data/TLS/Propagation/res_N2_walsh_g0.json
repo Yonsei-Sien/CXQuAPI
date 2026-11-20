@@ -1,0 +1,42 @@
+{
+ "config": {
+  "N_state": 2,
+  "N_max_step": 2,
+  "N_memory": 2,
+  "dt": 0.25,
+  "beta": 5.0,
+  "IF": "walsh_fourier",
+  "IF_setting": {},
+  "N_qb_state": 1,
+  "N_forward": 3
+ },
+ "grouping": {
+  "groups": null,
+  "alpha_lp": null,
+  "lambdas": [
+   1.0
+  ],
+  "N_ancilla": 1,
+  "cx_breakdown": null,
+  "t_lp": null,
+  "M": null
+ },
+ "readout": {
+  "p_postselect": null,
+  "p_readout": null
+ },
+ "result": {},
+ "circuit": {
+  "qubits": 7,
+  "cx_O0": 220,
+  "depth_O0": 242,
+  "cx_O1": 122,
+  "depth_O1": 144,
+  "cx_O2": 122,
+  "depth_O2": 145,
+  "cx_O3": 122,
+  "depth_O3": 145,
+  "cx": 220,
+  "depth": 242
+ }
+}

@@ -1,0 +1,178 @@
+[
+ {
+  "system": "TLS-strong",
+  "N": 2,
+  "n_q": 1,
+  "alpha_componentwise": 35.71640894903874,
+  "pairs": {
+   "n_var": 12,
+   "n_ineq": 27,
+   "seconds": 0.004990890622138977,
+   "alpha": 2.214997178952478,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 7,
+   "n_ineq": 27,
+   "seconds": 0.001505836844444275,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 3,
+   "cx": 64
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 3,
+  "n_q": 1,
+  "alpha_componentwise": 2366.508987414314,
+  "pairs": {
+   "n_var": 24,
+   "n_ineq": 54,
+   "seconds": 0.002292986959218979,
+   "alpha": 23.700103615308727,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 18,
+   "n_ineq": 63,
+   "seconds": 0.0020981580018997192,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 3,
+   "cx": 144
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 4,
+  "n_q": 1,
+  "alpha_componentwise": 362905.61789918493,
+  "pairs": {
+   "n_var": 40,
+   "n_ineq": 90,
+   "seconds": 0.0026015937328338623,
+   "alpha": 586.9113036708438,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 26,
+   "n_ineq": 171,
+   "seconds": 0.0032894015312194824,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 4,
+   "cx": 528
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 5,
+  "n_q": 1,
+  "alpha_componentwise": 93712743.15184417,
+  "pairs": {
+   "n_var": 60,
+   "n_ineq": 135,
+   "seconds": 0.0031722411513328552,
+   "alpha": 24474.516977013456,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 36,
+   "n_ineq": 495,
+   "seconds": 0.007123500108718872,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 5,
+   "cx": 2064
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 6,
+  "n_q": 1,
+  "alpha_componentwise": 34348689918.709072,
+  "pairs": {
+   "n_var": 84,
+   "n_ineq": 189,
+   "seconds": 0.0037224888801574707,
+   "alpha": 1448646.2690985452,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 60,
+   "n_ineq": 756,
+   "seconds": 0.010580956935882568,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 5,
+   "cx": 3120
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 7,
+  "n_q": 1,
+  "alpha_componentwise": 16165511132628.254,
+  "pairs": {
+   "n_var": 112,
+   "n_ineq": 252,
+   "seconds": 0.004703551530838013,
+   "alpha": 110097716.5973254,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 78,
+   "n_ineq": 2214,
+   "seconds": 0.03268115967512131,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 6,
+   "cx": 12336
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 8,
+  "n_q": 1,
+  "alpha_componentwise": 9170374261739062.0,
+  "pairs": {
+   "n_var": 144,
+   "n_ineq": 324,
+   "seconds": 0.0057483091950416565,
+   "alpha": 10085852846.06165,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 99,
+   "n_ineq": 6588,
+   "seconds": 0.11662662029266357,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 7,
+   "cx": 49200
+  }
+ },
+ {
+  "system": "TLS-strong",
+  "N": 9,
+  "n_q": 1,
+  "alpha_componentwise": 6.011469758934235e+18,
+  "pairs": {
+   "n_var": 180,
+   "n_ineq": 405,
+   "seconds": 0.006756685674190521,
+   "alpha": 1067684479886.295,
+   "skipped": false
+  },
+  "exact": {
+   "n_var": 140,
+   "n_ineq": 8802,
+   "seconds": 0.17757732421159744,
+   "alpha": 1.0,
+   "skipped": false,
+   "g": 7,
+   "cx": 65632
+  }
+ }
+]

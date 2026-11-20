@@ -1,0 +1,92 @@
+[
+ {
+  "system": "TLS-strong",
+  "N": 2,
+  "slices": 3,
+  "g": 3,
+  "cx": 64,
+  "reach": 2,
+  "alpha_pair": 2.214997178952478,
+  "seconds": 0.0035638809204101562
+ },
+ {
+  "system": "TLS-strong",
+  "N": 3,
+  "slices": 4,
+  "g": 3,
+  "cx": 144,
+  "reach": 3,
+  "alpha_pair": 23.700103615308727,
+  "seconds": 0.004450082778930664
+ },
+ {
+  "system": "TLS-strong",
+  "N": 4,
+  "slices": 5,
+  "g": 4,
+  "cx": 528,
+  "reach": 4,
+  "alpha_pair": 586.9113036708438,
+  "seconds": 0.009013175964355469
+ },
+ {
+  "system": "TLS-strong",
+  "N": 5,
+  "slices": 6,
+  "g": 5,
+  "cx": 2064,
+  "reach": 5,
+  "alpha_pair": 24474.516977013456,
+  "seconds": 0.018336772918701172
+ },
+ {
+  "system": "TLS-strong",
+  "N": 6,
+  "slices": 7,
+  "g": 5,
+  "cx": 3120,
+  "reach": 6,
+  "alpha_pair": 1448646.2690985452,
+  "seconds": 0.024609088897705078
+ },
+ {
+  "system": "TLS-strong",
+  "N": 7,
+  "slices": 8,
+  "g": 6,
+  "cx": 12336,
+  "reach": 7,
+  "alpha_pair": 110097716.5973254,
+  "seconds": 0.06589293479919434
+ },
+ {
+  "system": "TLS-strong",
+  "N": 8,
+  "slices": 9,
+  "g": 7,
+  "cx": 49200,
+  "reach": 8,
+  "alpha_pair": 10085852846.06165,
+  "seconds": 0.20672893524169922
+ },
+ {
+  "system": "TLS-strong",
+  "N": 9,
+  "slices": 10,
+  "g": 7,
+  "cx": 65632,
+  "reach": 9,
+  "alpha_pair": 1067684479886.295,
+  "seconds": 0.29547715187072754
+ },
+ {
+  "system": "TLS-strong",
+  "N": 10,
+  "slices": 11,
+  "g": 8,
+  "cx": 262240,
+  "reach": 10,
+  "alpha_pair": 126814698086507.86,
+  "seconds": 1.1365396976470947
+ }
+]
